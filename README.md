@@ -1,1 +1,1 @@
-<img src='https://www.cyberiaonline.com/assets/skin/anon/04/0.png'>
+<img src='https://www.cyberiaonline.com/assets/skin/anon/06/0.png'>
