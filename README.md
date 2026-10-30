@@ -1,18 +1,10 @@
 <div align="center">
   <img src="https://underpost.net/apple-touch-icon-180x180.png" width="88" alt="Underpost logo" />
 
-  <h1>underpost</h1>
+# underpost
 
-  <strong>Code, worlds, assets &amp; infrastructure</strong>
-
-  <p>
-    <a href="https://underpost.net">Website</a> ·
-    <a href="https://underpost.net/docs">Documentation</a> ·
-    <a href="https://github.com/underpostnet">GitHub</a>
-  </p>
 </div>
 
----
 <div align="center">
 
   Projects
