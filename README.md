@@ -37,7 +37,7 @@
       <a href="https://www.cyberiaonline.com">
         <img src="https://www.cyberiaonline.com/favicon.ico" width="28" alt="Cyberia favicon" /><br/>
         <strong>Cyberia</strong><br/>
-        <img src="https://www.cyberiaonline.com/api/v1/atlas-sprite-sheet/idle-preview/bafkreicygoeri6yzttrq2bovhixw7bk4ahhxuh7r7epjd5lw6ept4bn2ry" width="48" alt="Cyberia pixel character" />
+        <img src="https://services.cyberiaonline.com/api/v1/atlas-sprite-sheet/idle-preview/bafkreicygoeri6yzttrq2bovhixw7bk4ahhxuh7r7epjd5lw6ept4bn2ry" width="48" alt="Cyberia pixel character" />
       </a>
       <br/><sub>Persistent worlds, game runtime and creation tools.</sub>
     </td>
